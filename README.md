@@ -1,9 +1,10 @@
 #Timer/Pomodoro technique.
 
 ## Table of Contents for Git bush download/cloning the app
+* [General Information](#general-information)
 * [Short Instructions](#short-instructions)
 * [Detailed Instructions](#detailed-instructions)
-* [General Information](#general-information)
+
 
 ## General Information
 
