@@ -1,4 +1,4 @@
-#Timer/Pomodoro technique.
+# Timer/Pomodoro technique.
 
 ## Table of Contents for Git bush download/cloning the app
 * [General Information](#general-information)
@@ -51,7 +51,7 @@ this will navigate your Git Bush to Desktop, and if that is your desired, just w
 
 ``` $ git clone https://github.com/IvanoskiHarmonia/TimerJS ```
 
-# Dollar Sign
+## Dollar Sign
 
 `do not forget: $ should not be used, because it is already there.` 
 
