@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="style.css">
+    <!-- linking favicon  -->
+    <link rel="icon" href="/favicon.ico?v=2" type="image/x-icon" />
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- jquery cdn link -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <title>Timer</title>
+</head>
+<body>
+    
+
+    <!-- Create a textbox are from where I will take time in seconds -->
+
+
+    <div class="timer-container">
+        <input class="time" type="text" name="time" placeholder="Enter time in minutes">
+        <div class="buttons">
+            <button class="START">Start</button>
+            <button class="STOP">Stop</button>
+            <button class="RESET">Reset</button>
+            <button class="CLEAR">Clear</button>
+            <div>
+                <select name="conc_funcs" id="concentration-container" onchange="concFuncs(this)">
+                    <option value="">--Select-Option--</option>
+                    <option value="45_10">pomodoro 45 - 10</option>
+                    <option value="30_5">pomodoro 30 - 5</option>
+                    <option value="25_5">pomodoro 25 - 5</option>
+                    <option value="15_2">pomodoro 15 - 2</option>
+                </select>
+                <input class="numCycles" type="text" name="numCycles" placeholder="Enter number of cycles">
+            </div>
+        </div>
+        <p class="counter"></p>
+    </div>
+    
+
+
+
+    <script src="script.js"></script>
+</body>
+</html>
