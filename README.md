@@ -22,7 +22,7 @@ This app was also inspired by [StudyMD](https://www.youtube.com/channel/UC5CRP-6
 
 ### Languages Used
 
-The main language that is used is: ![alt text](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png "JavaScript")
+The main language that is used is: ![alt text]((https://github.com/MarioTerron/logo-images/blob/master/logos/es6.png "JavaScript")
 
 ## Instructions if you need to use this app with Git Bush
 
