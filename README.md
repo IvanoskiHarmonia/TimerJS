@@ -30,7 +30,7 @@ $ git clone https://github.com/IvanoskiHarmonia/TimerJS
 
 Navigate through the place where you want to download/clone the timer, example:
 
-go to ``` This PC ```on Windows, there you should be able to see the desktop folder, then do:
+go to ```This PC``` on Windows, there you should be able to see the desktop folder, then do:
 
 ``` Right Click -> Copy as Path ```
 
