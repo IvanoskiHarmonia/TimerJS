@@ -15,7 +15,7 @@ One another upside:
 
 Very easy to modify the code if you want to include some cycles of pomodoro and so on.
 
-This app is inspired by [WhatIs website](https://whatis.techtarget.com/definition/pomodoro-technique)
+This app was also inspired by [StudyMD](https://www.youtube.com/channel/UC5CRP-6oxYenIgBj17CkBZg) and [James Scholz](https://www.youtube.com/channel/UCMwo6hT5hI3R56rO2HYP-wQ)
 
 ## Instructions if you need to use this app with Git Bush
 
