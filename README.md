@@ -53,5 +53,6 @@ this will navigate your Git Bush to Desktop, and if that is your desired, just w
 # Dollar Sign
 
 `do not forget: $ should not be used, because it is already there.` 
+
 if curious: $ is showing that we're in the system shell, i.e. the program that you're put into as soon as you open the Terminal app.
 The dollar sign is often the symbol used to signify where you can begin typing in commands
